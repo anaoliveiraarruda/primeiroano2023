@@ -1,2 +1,3 @@
 # primeiroano2023
 Colégio Estadual Presidente Vargas 
+Colégio Estadual Cívico Militar Presidente Vargas - Bela Vista do ParaísoMeu nome é Ana Beatriz Oliveira Arruda, tenho quinze anos, estudo no Colégio Estadual Cívico Militar Presidente Vargas, estudo no primeiro ano do ensino médio, já estudei em Sertanópolis na Escola Municipal Maria Gomes Teixeira, depois estudei na Escola Municipal Parigot de Souza, minha comida preferida é arroz feijão e carne de porco, adoro tomar sorvete ou açai, tenho vontade de fazer a faculdade de Medicina Veterinaria ou Direito, tenho vontade de terminar os meus estudos, ter um bom emprego e construir uma familía.
