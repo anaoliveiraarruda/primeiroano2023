@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-color: pink ;
 }
 
 
@@ -10,7 +10,7 @@ h1 {
 }
 
 p{
-    color: blue;
+    color: rgba(234, 0, 255, 0.116);
     font-size: 30px;
     text-align: justify;
 }
