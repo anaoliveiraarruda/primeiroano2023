@@ -1,16 +1,16 @@
 body {
-    background-color: pink ;
+    background-color: rgb(223, 192, 197) ;
 }
 
 
 h1 {
-    color: violet;
+    color: rgb(100, 2, 100);
     font-size: 50px;
     text-align: center;
 }
 
 p{
-    color: rgba(234, 0, 255, 0.116);
+    color: rgba(45, 4, 49, 0.116);
     font-size: 30px;
     text-align: justify;
 }
