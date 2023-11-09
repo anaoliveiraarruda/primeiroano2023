@@ -1,16 +1,16 @@
 body {
-    background-color: rgb(221,160,221);
+    background-color: rgb(221 ,160 ,221);
 }
 
 
 h1 {
-    color: rgb(218,112,214);
+    color: rgb(218 ,112 ,214);
     font-size: 50px;
     text-align: center;
 }
 
 p{
-    color: rgba(238,130,238);
+    color: rgba(238 ,130 ,238);
     font-size: 30px;
     text-align: justify;
 }
