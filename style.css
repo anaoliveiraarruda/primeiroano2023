@@ -26,6 +26,7 @@ p {
     padding: 2px; /*define uma distância interna entre um elemento e sua borda*/
     border: 0.2rem solid #677b3e;
     border-radius: 20px;
+    text-align: center;
 }
 
 .fotos {
