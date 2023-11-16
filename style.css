@@ -20,7 +20,7 @@ p {
 }
 
 .logo {
-    width: 600px; 
+    width: 200px; 
     height: 300px;
     margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
     padding: 2px; /*define uma distância interna entre um elemento e sua borda*/
