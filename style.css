@@ -1,7 +1,13 @@
 body {
     font-family: sans-serif;
     background-color: black;
+}
 
+header{ 
+    background-color: azure;
+    border-bottom: 5px purple;
+
+}
 
 h1 {
     color: purple;
