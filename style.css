@@ -35,7 +35,7 @@ p {
 }
 
 .logo {
-    width: 400px; 
+    width: 100px; 
     height: 100px;
     margin: 2px; /*insere um espaçamento externo ao elemento, ao redor da borda*/
     padding: 2px; /*define uma distância interna entre um elemento e sua borda*/
