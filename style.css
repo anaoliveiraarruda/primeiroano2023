@@ -6,7 +6,11 @@ body {
 header{ 
     background-color: rgb(216, 209, 218);
     border-bottom: 10px solid purple;
+}
 
+.cabecalho {
+    display: flex;
+    justify-content: space-around;
 }
 
 h1 {
