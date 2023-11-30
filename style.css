@@ -48,3 +48,9 @@ p {
     border: 0.5rem solid#2c3546;
     border-radius: 24px;
 }
+
+.lista{
+    font-size: 30px;
+    color: purple;
+    list-style: none;
+}
